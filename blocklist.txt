@@ -1,0 +1,27 @@
+[Adblock Plus]
+! Version: 202408271035
+! Title: Gilson BlockList
+! Description: Block. Don't break.
+! Syntax: Adblock Plus Filter List
+! Entries: 14
+! Last modified: 2024-08-27T10:35:49+0000
+! Expires: 1 hours
+! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
+! Maintainer: Stephan van Ruth
+! Homepage: https://oisd.nl
+! Contact: contact@oisd.nl
+
+||enrol.gilson.vic.edu.au^
+||jss.gilson.vic.edu.au^
+||micv.gilson.vic.edu.au^
+||taylorshill.gilson.vic.edu.au^
+||adgm.gilson.vic.edu.au^
+||adth.gilson.vic.edu.au^
+||captiveportal.gilson.vic.edu.au^
+||clearpass-m.gilson.vic.edu.au^
+||clearpass-th.gilson.vic.edu.au^
+||clearpass.gilson.vic.edu.au^
+||cpanel.gilson.vic.edu.au^
+||mernda.gilson.vic.edu.au^
+||webdisk.gilson.vic.edu.au^
+||webmail.gilson.vic.edu.au^
