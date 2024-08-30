@@ -26,3 +26,5 @@
 ||webdisk.gilson.vic.edu.au^
 ||webmail.gilson.vic.edu.au^
 ||127.0.0.1^
+||172.28.0.254^
+||localhost^
